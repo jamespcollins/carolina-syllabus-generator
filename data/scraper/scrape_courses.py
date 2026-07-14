@@ -26,13 +26,7 @@ COURSES_URL = f"{BASE_URL}/courses/"
 
 # Arts & Sciences departments to scrape (most common gen ed courses)
 ARTS_SCIENCES_DEPTS = [
-    "aaad", "amst", "anth", "arab", "arch", "arth", "arts", "asia", "astr",
-    "biol", "chem", "chin", "clas", "clar", "comm", "cmpl", "comp", "data",
-    "dram", "econ", "engl", "enec", "exss", "folk", "fren", "geog", "geol",
-    "germ", "glbl", "grek", "hebr", "hist", "ital", "japn", "jwst", "kor",
-    "latn", "lfit", "ling", "ltam", "math", "musc", "phil", "phys", "poli",
-    "port", "psyc", "pwad", "reli", "roml", "russ", "soci", "span", "stor",
-    "wgst"
+     "plan"
 ]
 
 # Gen ed code patterns
