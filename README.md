@@ -6,7 +6,7 @@ A web application to help UNC-Chapel Hill instructors create compliant syllabi.
 
 ## Features
 
-- Course lookup from UNC catalog (6,168 courses)
+- Course lookup from UNC catalog (6,558 courses)
 - Auto-populated general education learning outcomes
 - Dynamic assignment and learning objectives lists
 - Export to Markdown or Word (.docx)
